@@ -1,7 +1,7 @@
 @font-face {
   font-family: "FT88-Regular.woff";
-  src: url("/fonts/FT88-Regular.woff") format("font-format"),
-       url("/fonts/FT88-Regular.woff2") format("font-format");
+  src: url("/fonts/FT88-Regular.woff") format("woff"),
+       url("/fonts/FT88-Regular.woff2") format("woff");
 }
 
 * {
