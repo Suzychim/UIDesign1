@@ -1,7 +1,6 @@
 @font-face {
-  font-family: "FT88";
-  src: url("/fonts/FT88-Regular.woff") format("woff"),
-       url("/fonts/FT88-Regular.woff2") format("woff2");
+  font-family: FT88;
+  src: url(FT88-Regular.woff);
 }
 
 * {
@@ -13,7 +12,8 @@
 /* adjusting fonts */
 
 body {
-	font-family: -FT88, apple-system, BlinkMacSystemFont, helvetica, arial, sans-serif;
+	 font-family: ‘FT88’, Arial, "Helvetica Neue", Helvetica, sans-serif;
+
 	transition: background 500ms ease;
 }
 
