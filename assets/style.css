@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "FT88";
+  src: url("/Users/jackychim/Desktop/UIDesign1/assets/fonts/FT88-Regular.woff") format("font-format"),
+       url("the-path-to-your-font") format("font-format");
+}
+
 * {
 	margin:  0px;
 	padding:  0px;
