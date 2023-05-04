@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "FT88";
-  src: url("/Users/jackychim/Desktop/UIDesign1/assets/fonts/FT88-Regular.woff") format("font-format"),
-       url("the-path-to-your-font") format("font-format");
+  font-family: "FT88-Regular.woff";
+  src: url("/fonts/FT88-Regular.woff") format("font-format"),
+       url("/fonts/FT88-Regular.woff2") format("font-format");
 }
 
 * {
