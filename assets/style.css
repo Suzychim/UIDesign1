@@ -15,6 +15,8 @@ body {
 	 font-family: ‘FT88’, Arial, "Helvetica Neue", Helvetica, sans-serif;
 
 	transition: background 500ms ease;
+
+	Font-family: 'FT88' ;
 }
 
 p, li {
@@ -39,6 +41,15 @@ ul, ol {
 img {
 	max-width: 100%;
 	height:  auto;
+}
+
+a, a:visited {
+  transition: all 500ms ease;
+  color: lightpink;
+}
+
+a:hover {
+  color: red;  
 }
 
 /* uncomment the code below to set the grid */
