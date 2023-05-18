@@ -1,4 +1,4 @@
- <script type="text/javascript" src="script.js"></script>
- $(document).ready(function(){
-     $("#darkmode").click(function(){ $('body').toggleClass('darkmode');});
+$(document).ready(function(){
+     $("button").click(function(){ 
+        $('body').toggleClass('darkmode');});
 });
