@@ -85,6 +85,18 @@ a:hover {
 }
 
 
+   /* Landscape iPhone X */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) {
+        body {
+        	background: green;
+        }
+}
+
+
+
+
 /* uncomment the code below to set the grid */
 
 /*#grid {
